@@ -20,7 +20,7 @@ class Header extends Component {
 						<Link to="/products">Projects</Link>
 					</li>
           <li className="last">
-						<Link to="/contact">About</Link>
+						<Link to="/about">About</Link>
 					</li>
         </ul>
       </nav>
